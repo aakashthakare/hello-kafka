@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: README.md
+  checksum: b5faeba9ec5fa0430a92d21206d93ab21003f3956c14cf75efe93ab436915f28
+- filename: src/main/java/kafka/consumer/ConsumerUtils.java
+  checksum: 09dff8842a2992f0f17376aae92d4e7a544b34a99638c8eb35d5dd9702700a48
+- filename: src/main/java/kafka/producer/ProducerUtils.java
+  checksum: 19ab029ada805c0a20ecf6c46430d847e10b7213314f8c36e013d515c5bb920f
+- filename: src/main/java/kafka/producer/ProducerMain.java
+  checksum: 027d7a40e5aa864b08ee4723a81fbcce6eca622470639a6594a48e8e2dc98bd2
+- filename: src/main/java/kafka/consumer/ConsumerMain.java
+  checksum: b6c27e3fc07e203cb6c2130b382f1b4b5c5e87268f0bffedf4d5faaecdb31c6a
+version: ""
